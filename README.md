@@ -41,9 +41,9 @@ ecommerce-JS-project-main/
 
 ## 🙌 Contributors  
 - 👤 [Ahmed Abbas](https://github.com/Ahmed-Abbas20)  
-- 👩‍💻 Fairouz Magdy  
-- 👨‍💻 Abdulrahman Abuelgheit  
-- 👨‍💻 Zyad Alshehaly  
+- 👩‍💻 [Fairouz Magdy](https://github.com/FairouzMagdy)  
+- 👨‍💻 [Abdulrahman Abuelgheit](https://github.com/AbdulrahmanAbuelgheit)
+- 👨‍💻 [Zyad Alshehaly](https://github.com/ziyad-alaa)
 
 ---
 
