@@ -1,8 +1,6 @@
 # 🛒 E-Commerce Client-Side JS  
 An interactive and responsive front-end e-commerce web app built using **pure JavaScript**, HTML, and CSS — simple, elegant, and effective!
 
-![preview](https://user-images.githubusercontent.com/your-image-link.png) <!-- 🔄 استبدل الرابط بصورة فعلية من المشروع -->
-
 ## 🚀 Features  
 - 🧾 Product listing with clean UI  
 - 🛍️ Add to cart and remove functionality  
